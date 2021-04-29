@@ -1,7 +1,7 @@
 [package]
-name = "retab"
+name = "respace"
 version = "0.1.0"
-authors = ["Floozutter <floozutter@gmail.com>"]
+authors = ["Floozutter <me@floozutter.site>"]
 edition = "2018"
 
 [dependencies]
