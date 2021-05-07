@@ -5,4 +5,5 @@ authors = ["Floozutter <me@floozutter.site>"]
 edition = "2018"
 
 [dependencies]
+regex = "1"
 clap = "2"
